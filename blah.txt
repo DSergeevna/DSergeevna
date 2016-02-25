@@ -1,0 +1,20 @@
+
+<table width="500" border="0" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="coffee.png" alt="Unlimited coffee" />
+<br />
+Unlimited Coffee
+</td>
+
+<td align="center" valign="center">
+<img src="wifi.png" alt="Fast internet connection" />
+<br />
+Fast Internet Connection
+</td>
+
+</tr>
+
+</table>
